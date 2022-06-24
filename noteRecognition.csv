@@ -1,3 +1,4 @@
 Date_MM_DD_YYYY,BassTime,BassErrors,TrebleTime,TrebleErrors,AltoTime,AltoErrors,TenorTime,TenorErrors,SopranoTime,SopranoErrors,MSTime,MSErrors,BarritoneTime,BaritoneErrors,GrandTime,GrandErrors,AllButGrandTime,AllButGrandErrors
 06/06/2022,          468,         2,       377,           0,     817,        11,     1002,         11,        622,            0,   655,       7,          844,            13,      376,          5,            780,                6
 06/14/2022,          401,         7,       280,           0,     501,         3,      540,          4,        501,            2,   426,       5,          609,             2,      401,          0,            730,                9
+06/23/2022,          461,         0,       296,           1,     643,         0,      491,          4,        490,            0,   420,       2,          618,             8,      317,          0,            542,                3
